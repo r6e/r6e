@@ -10,6 +10,8 @@
   
 </div>
 
+<img src="https://avatars2.githubusercontent.com/u/3004637?s=460&amp;u=09b6884f442fa9b7bb88ca8cdff647ab0cc945fc&amp;v=4" align="left"
+     alt="Redapted Avatar" width="80" height="80">
 
 ### Hi there 👋
 
