@@ -1,3 +1,11 @@
+<div align="center" style="text-align:center">
+  
+  # Rob Trame
+  [![ruby 9 years](https://img.shields.io/badge/_-9%20years-red.svg?style=plastic&color=CC342D&logo=ruby)](https://ruby-lang.org)
+  
+</div>
+
+
 ### Hi there 👋
 
 <!--
